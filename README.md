@@ -26,7 +26,7 @@
    
  ### INSTALLATION
   
-  Just create new database in phpmyadmin and import the sql file which is located in Database folder. Also save the main folder in the htdocs folder of xampp(when installed).Run the project on localhost server.
+  Just create new database in phpmyadmin and import the sql file which is located in Database folder. Also save the main folder in the htdocs folder of xampp(when installed).Run the project on localhost server.(Also transfer all these admin related files in a separate folder named "admin"))
   
   ### ADMIN DASHBOARD
   
